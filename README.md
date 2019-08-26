@@ -51,3 +51,8 @@ This way, the queries will show up to registered administrator-accounts in the "
 # Language support
 
 Right now, the BaseCMS is only available in german.
+
+# Screenshot
+
+
+![BaseCMS](startseite.png?raw=true "BaseCMS")
