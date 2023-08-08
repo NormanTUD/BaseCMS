@@ -60,7 +60,7 @@
 
 		<link rel="stylesheet" href="data/jquery-ui.css">
 		<link rel="stylesheet" href="data/style.css">
-		<script src="data/jquery-1.12.4.js"></script>
+		<script src="data/jquery-3.7.0.js"></script>
 		<script src="data/jquery-ui.js"></script>
 		<script type="text/javascript">
 			function reset_comment_box_size (element) {
